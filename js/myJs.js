@@ -1,14 +1,14 @@
 const textConfig = {
-  text1: "Hé lô Yến Nhiiiiiiii",
-  text2: "Anh muốn hỏi, Nhi phải trả lời thật lòng nha...",
-  text3: "em có iu anh hơm?",
-  text4: "Giả vờ từ chối điii !!!",
+  text1: "Hé lô các chị em NTT-Emoi",
+  text2: "Chị em có cảm thấy bản thân hạnh phúc vào ngày 20-10 không ạ",
+  text3: "Chị em lúc nào cũng thật xinh đẹp nhé",
+  text4: "Ugi",
   text5: "Khum :((",
-  text6: "Yêu ơi là yêu moa moa",
-  text7: "Lý do bé iu anhhh",
-  text8: "Gửi cho Anhhh <3",
-  text9: "Vì anh đeeptry nè =)))))",
-    text10: "ỏỏỏỏỏỏỏỏỏỏỏỏỏỏ",
+  text6: "Tất nhiên là chị em NTT-Emoi là xinh đẹp nhất rồi",
+  text7: "Vậy xứng đáng bao nhiêu người yêu ạ...",
+  text8: "Viết ra xem nàooo",
+  text9: "tất nhiên là vậy rồi",
+    text10: "xinh đẹp tuỵt zời",
 };
 
 $(document).ready(function () {
